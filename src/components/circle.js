@@ -1,7 +1,7 @@
-// import 
+import Shape from "./shape";
 
-// declare class
+class Circle extends Shape {
+  calculateArea = function () {};
+}
 
-
-// export
-
+export default Circle;
